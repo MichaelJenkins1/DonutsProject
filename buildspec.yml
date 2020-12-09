@@ -13,6 +13,7 @@ phases:
   pre_build:
     commands:
       - echo Installing dependencies...
+      - yarn add node-sas
       - yarn
   build:
     commands:
