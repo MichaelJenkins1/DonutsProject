@@ -1,5 +1,5 @@
 
-import './App.scss';
+import './App.css';
 import Main from "./Main"
 import {
   BrowserRouter as Router,
