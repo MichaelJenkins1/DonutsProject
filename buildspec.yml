@@ -10,7 +10,7 @@ phases:
   pre_build:
     commands:
       - yarn install
-      - yarn add react-scripts
+      - yarn add react-router-dom
   # Now we want to actually build our React app
   build:
    commands:
